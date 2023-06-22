@@ -55,6 +55,11 @@ To use Python from the environment you just created, activate the environment wi
 
 Installing OpenMPI
 ==================
+Within Conda Env (spinningup)
+------
+.. parsed-literal::
+    conda install -c conda-forge openmpi-mpicc
+
 
 Ubuntu 
 ------
